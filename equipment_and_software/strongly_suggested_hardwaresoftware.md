@@ -1,7 +1,7 @@
 # Strongly Suggested Hardware/Software
 
 - Computer: **MacBook Air or MacBook Pro**
-- Operating System: **OSX Mountain Lion (10.7) or greater**
+- Operating System: **OSX Mavericks (10.9)**
 - Text Editor: **Sublime Text**
 - Internet Browser: **Google Chrome**
 
