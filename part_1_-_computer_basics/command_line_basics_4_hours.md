@@ -5,7 +5,7 @@ The command line is a new way you'll be interacting with your computer. It looks
 ###Resources:
 
 - [Treehouse command line tutorial](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line) - A friendly introduction to what the command line is.
-- [Command Line Tutorial](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line) - Another quick command line tutorial to solidify the basics and includes some good tips.
+- [Command Line Tutorial](http://www.davidbaumgold.com/tutorials/command-line/) - Another quick command line tutorial to solidify the basics and includes some good tips.
 
 ###Assess Yourself:
 
@@ -18,6 +18,7 @@ The command line is a new way you'll be interacting with your computer. It looks
 - Use tab completion
 - List all the files or directories in your home folder that begin with the letter "D"
 - View recently typed commands
+- View the contents of files
 
 ###If you want to go deeper:
 
