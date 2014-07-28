@@ -36,7 +36,7 @@ Add some basic styling to your page using an external style sheet:
 - Add a border around a text block.
 - Give your page a background image or background color.
 
-###To learn more:
+###Go Deeper:
 
 - [General Assembly - Dash](https://dash.generalassemb.ly/) - You should have already completed projects 1 and 2 from your interview.  Check out the other projects!
 - [Code School - CSS Cross Country](https://www.codeschool.com/courses/css-cross-country) - Dig in with some more advanced CSS concepts (only try this if you have a solid grasp of basic HTML and CSS).
