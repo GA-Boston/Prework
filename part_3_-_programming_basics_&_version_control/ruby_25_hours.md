@@ -15,11 +15,9 @@ Now we'll dig deeper into programming with a full-featured language: Ruby! It's 
 Instead of attempting to install Ruby (and creating headaches at Installfest), test your chops with an online console at [REPL.it](http://repl.it/languages/Ruby) -- a tool for programming in Ruby online.
 
 - Print out all the numbers from 1 to 100
-- Create an array that holds 5 of your favorite things
-	- Loop through that array and print out each one
-- Write a method called *greet* that takes a person's name as an argument and prints "Hello" plus that person's name (i.e. `hello("You")` prints "Hello You!").
-- Write a method, `double`, that takes a number `num` as an argument and returns 2 times that number.
-- Write a method, `is_even?`, that takes a number num as an argument and returns `true` if it is even and `false` otherwise.
+- Write a method called *greet* that takes a person's name as an argument and **RETURNS* (not prints) "Hello" plus that person's name (i.e. `hello("You") ==> "Hello You!"`).
+- Write a method, `double`, that takes a number `num` as an argument and **returns** 2 times that number.
+- Write a method, `is_even?`, that takes a number num as an argument and **returns** `true` if it is even and `false` otherwise.
 - Write a "fizzbuzz" method that takes in an argument(x) and prints out all the numbers from 1 to X. HOWEVER, there are some exceptions. If the number is evenly divisible by 3, the method should print out "fizz" instead of the number. If the number is evenly divisible by 5, the method should print out "buzz". And, if the number is evenly divisible by both 3 AND 5, the method should print out "fizzbuzz". For example, calling `fizzbuzz(16)` should print out
 
 	```ruby
@@ -39,11 +37,19 @@ Instead of attempting to install Ruby (and creating headaches at Installfest), t
 		14
 		fizzbuzz
 	```
+- Create an array with five different names in it: "Tom", "Alex", "Denise", "Phillip", and "Claire". Then, modify the array to replace "Phillip" with "Michael".
+- Create a hash with the following key/value pairs:
+	"Tom" / "Jerry"
+	"Peanut Butter" / "Jelly"
+	"Lucy" / "Ethel"
+	"Batman" / "Robin"
+	"Asterix" / "Obelix"
+- Define a Ruby class called 'Dog', with a method called 'bark' that returns the string "WOOF"; then, create an new instance of 'Dog' and call its 'bark' method.
+
 **Be sure to test your code!**
 
 ###Go Deeper:
 
-- [Codecademy Ruby Track](http://www.codecademy.com/tracks/ruby) - Please work through these sections.
-- 
-- If you are looking for an extra challenge, check out some of the elementary problems at [Rubeque](http://www.rubeque.com/)
+- [Codecademy Ruby Track](http://www.codecademy.com/tracks/ruby) - This tutorial is a good review once you're familiar with the concepts.
+- [Project Euler](https://projecteuler.net/) and [Rubeque](http://www.rubeque.com/) have large sets of challenge problems - see how many of these you can do! 
 
