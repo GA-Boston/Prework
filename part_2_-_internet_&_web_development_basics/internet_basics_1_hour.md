@@ -1,6 +1,6 @@
 # Internet Basics (1 hour)
 
-We're learning to build web applications, so it's important to understand how the magical web works.
+We're learning to build web applications, so looking at how the web works is a great way to start!
 
 ###Resources:
 
@@ -11,9 +11,8 @@ We're learning to build web applications, so it's important to understand how th
 ###Assess Yourself:
 
 - Explain to a friend or family member what happens when you type [www.google.com](www.google.com) into your browser and hit enter.
-- Define the following terms:
-	- Client
-	- Server
+- Define the following terms as precisely as you can:
+	- Client / Server
 	- Browser
 	- IP Address
 	- DNS
