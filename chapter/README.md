@@ -7,7 +7,7 @@ Build your online presence:
 - Create an account on [LinkedIn](http://linkedin.com) - we’ll dig more into best profile practices later in the course)
 - Create a [Twitter](http://twitter.com) account - used for networking AND coding
 
-Start reading [Hacker News](https://news.ycombinator.com/) regularly and check out these articles on learning to program:
+Start reading [Hacker News](https://news.ycombinator.com/) regularly, and check out these articles on learning to program:
 
 - [What Is Back-end Web Development](http://blog.generalassemb.ly/what-is-back-end-web-development/)
 - [What Is Front-end Web Development](http://blog.generalassemb.ly/what-is-front-end-web-development/)
