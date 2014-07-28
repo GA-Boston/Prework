@@ -1,10 +1,14 @@
 # PART 3 - Programming Basics & Version Control
 
-There's no magic amount of time it takes one to be an expert at programming.  10 years, 10,000 hours, it's all irrelevant.  Everyone moves at their own pace and finds different elements more intriguing than others.
+Welcome to the 'meat and potatoes' of the pre-work, where for the first time, we'll start to look at the core work of being a developer - programming!
 
-The first, and arguably the most improtant, part of the course focuses on becoming a programmer and learning how to think like a developer.  This is a selection of resources to expose you to some of the major concepts of Ruby and Git.  Keep in mind this is a surface-level exploration: class will go much deeper and provide a world of context around what you're typing.
+First, we'll dive into Ruby, the language we use to help teach you the fundamentals of programming, and the focus of the first few weeks of WDI. Why Ruby? First, Ruby is the language that the popular web framework Rails is written in, so learning Ruby is a prerequisite to learning Rails. Second, not only is Ruby similar to many other *object-oriented* languages that you'll come across, it also happens to be pretty flexible, well-documented, and easy to read - in other words, it's very beginner-friendly.
 
-Think about learning a programming language like learning a foreign language: there's a slurry of words to memorize and a grammar to adopt; it starts out cumbersomem, awkward, and seemingly repetitive, and with time becomes fluid, second nature, and full of finesse.
+Then, we'll explore a tool called Git, which allows us to track and store changes in our code, and even share them with the world. This is an **extremely** useful thing when you're working on large projects with lots of files, where it's easy to forget exactly what you've done.
+
+These resources will expose you to a lot of the major concepts of Ruby and Git. However, keep in mind that *this is only a preliminary exploration* - these topics will be covered more deeply, and with greater context, during class, so don't worry about acheiving mastery here just yet. 
+
+That said, having a good grasp of these concepts will make things much easier for you later on, so do your best to get really solid on the basics now. And don't be afraid to ask for help! It's much better to clear up misconceptions now, rather than several weeks into the course.
 
 <br><br>
 
