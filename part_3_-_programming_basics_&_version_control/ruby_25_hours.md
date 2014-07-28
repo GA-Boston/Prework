@@ -22,9 +22,9 @@ Now we'll dig deeper into programming with a full-featured language: Ruby! It's 
 Instead of attempting to install Ruby on your computer (and creating headaches at Installfest), test your chops with [REPL.it](http://repl.it/languages/Ruby) an online console and text editor for programming in Ruby.
 
 - Print out all the numbers from 1 to 100
-- Write a method called `greet` that takes a person's name as an argument and **RETURNS** (not prints) "Hello" plus that person's name (i.e. `hello("You") ==> "Hello You!"`).
-- Write a method called `double` that takes a number `num` as an argument and **returns** 2 times that number.
-- Write a method called `is_even?` that takes a number num as an argument and **returns** `true` if it is even and `false` otherwise.
+- Write a method called `greet` that takes a person's name as an argument and **returns** (not prints) "Hello" plus that person's name (i.e. `hello("You") ==> "Hello You!"`).
+- Write a method called `double` that takes a number `num` as an argument and **returns** two times the value of `num`.
+- Write a method called `is_even?` that takes a number `num` as an argument and **returns** `true` if it is even and `false` otherwise.
 - Write a method called `fizzbuzz` that takes in an argument(x) and prints out all the numbers from 1 to X. HOWEVER, there are some exceptions. If the number is evenly divisible by 3, the method should print out "fizz" instead of the number. If the number is evenly divisible by 5, the method should print out "buzz". And, if the number is evenly divisible by both 3 AND 5, the method should print out "fizzbuzz". For example, calling `fizzbuzz(16)` should print out
 
 	```ruby
