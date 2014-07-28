@@ -22,4 +22,4 @@ The command line is a new way you'll be interacting with your computer. It looks
 
 ###If you want to go deeper:
 
-- [Learn Command Line the Hard Way](http://cli.learncodethehardway.org/book/) - This tutorial is in-depth and can take 1-2 days.
+- [Learn Command Line the Hard Way](http://cli.learncodethehardway.org/book/) - This tutorial is in-depth and can take 1-2 days. Practice is the key to mastery here!
