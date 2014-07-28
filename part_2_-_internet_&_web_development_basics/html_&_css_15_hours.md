@@ -6,7 +6,7 @@ You're not expected to walk in knowing how to make drop-dead gorgeous sites, but
 
 - [Mozilla HTML Introduction](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction) - A quick introduction to HTML structure from a developer point of view. Read through this to get a clearer idea of how HTML works.
 - [Codecademy Web Track](http://www.codecademy.com/tracks/web) - Go through the entire course.  This resource walks you through the fundamentals of HTML and CSS by example.
-- [http://learn.shayhowe.com/html-css/](http://learn.shayhowe.com/html-css/)  Learn to Code HTML & CSS is a simple and comprehensive guide dedicated to helping beginners learn HTML and CSS
+- [Learn to Code : HTML & CSS](http://learn.shayhowe.com/html-css/) - This tutorial is a simple and comprehensive guide dedicated to helping beginners learn HTML and CSS
 
 ###Assess Yourself:
 
@@ -36,7 +36,7 @@ Add some basic styling to your page using an external style sheet:
 - Add a border around a text block.
 - Give your page a background image or background color.
 
-###If you want more:
+###To learn more:
 
 - [General Assembly - Dash](https://dash.generalassemb.ly/) - You should have already completed projects 1 and 2 from your interview.  Check out the other projects!
-- [Code School - CSS Cross Country](https://www.codeschool.com/courses/css-cross-country) - Dig in with some more advanced CSS concepts (only if you have a grasp of basic HTML and CSS).
+- [Code School - CSS Cross Country](https://www.codeschool.com/courses/css-cross-country) - Dig in with some more advanced CSS concepts (only try this if you have a solid grasp of basic HTML and CSS).
