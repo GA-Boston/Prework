@@ -20,6 +20,6 @@ The command line is a new way you'll be interacting with your computer. It looks
 - View recently typed commands
 - View the contents of files
 
-###If you want to go deeper:
+###To learn more:
 
 - [Learn Command Line the Hard Way](http://cli.learncodethehardway.org/book/) - This tutorial is in-depth and can take 1-2 days. Practice is the key to mastery here!
