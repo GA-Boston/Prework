@@ -7,7 +7,7 @@ Build your online presence:
 - Create an account on [LinkedIn](http://linkedin.com) - we’ll dig more into best profile practices later in the course)
 - Create a [Twitter](http://twitter.com) account - used for networking AND coding
 
-Check out these articles on learning to program:
+Start reading [Hacker News](https://news.ycombinator.com/) regularly and check out these articles on learning to program:
 
 - [What Is Back-end Web Development](http://blog.generalassemb.ly/what-is-back-end-web-development/)
 - [What Is Front-end Web Development](http://blog.generalassemb.ly/what-is-front-end-web-development/)
@@ -19,7 +19,6 @@ Check out these articles on learning to program:
 - [Should I major in computer science even if I feel I'm not naturally good at it?](http://www.quora.com/Computer-Science/Should-I-major-in-computer-science-even-if-I-feel-Im-not-naturally-good-at-it?srid=h4yO&st=ns)
 - [Becoming an Apprentice](http://hugomelo.com/becoming-an-apprentice/)
 - [How I Became a Programmer](http://mattdeboard.net/2011/11/23/how-i-became-a-programmer/)
-- [Check out Hacker News](https://news.ycombinator.com/)
 
 <br><br>
 
