@@ -12,7 +12,7 @@
    * [Internet Basics (1 hour)](part_2_-_internet_&_web_development_basics/internet_basics_1_hour.md)
    * [HTML & CSS (15 hours)](part_2_-_internet_&_web_development_basics/html_&_css_15_hours.md)
 * [PART 3 - Programming Basics & Version Control](part_3_-_programming_basics_&_version_control/README.md)
-   * [Ruby (25 hours)](part_3_-_programming_basics_&_version_control/ruby_25_hours.md)
-   * [Git (6 hours)](part_3_-_programming_basics_&_version_control/git_6_hours.md)
+   * [Ruby (30 hours)](part_3_-_programming_basics_&_version_control/ruby_30_hours.md)
+   * [Git (10 hours)](part_3_-_programming_basics_&_version_control/git_10_hours.md)
 * [Get Plugged In](chapter/README.md)
 
