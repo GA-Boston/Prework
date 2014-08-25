@@ -5,7 +5,7 @@ Now we'll dig deeper into programming with a full-featured language: Ruby! It's 
 ###Resources:
 
 - [Code School - Try Ruby](http://tryruby.org/) - A short, fun interactive tutorial online.
-- [Code School - Ruby Bits](http://www.codecademy.com/tracks/ruby-bits) - Go through levels 1-3
+- [Code School - Ruby Bits](https://www.codeschool.com/courses/ruby-bits) - Go through levels 1-3
 - [Codecademy Ruby Track](http://www.codecademy.com/tracks/ruby) - Work through the whole thing.
 - [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/book/) - Exercises 1-14, 18-44 -- Don’t install Ruby, use [REPL.it](http://repl.it/languages/Ruby)
 - [RubyMonk](https://rubymonk.com/) - RubyMonk is an *excellent* set of tutorials on Ruby, ranging from beginner level to advanced. For now, work only through the following units; if you want to come back after you finish the pre-work and try the others, go right ahead!
